@@ -1,0 +1,14 @@
+{
+  "name": "blux-cms",
+  "version": "0.0.0",
+  "main": "lib/index.js",
+  "repository": "https://github.com/tominflux/blux-cms",
+  "author": "Tom Chesters <tom@tomaaato.xyz>",
+  "license": "GPL-3.0-or-later",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodegit": "^0.27.0",
+    "parcel-bundler": "^1.12.4"
+  }
+}
